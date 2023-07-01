@@ -1,0 +1,2 @@
+[Variables]
+print_stats = {'time': {'total': 0.0, 'service': 0, 'filter': 0}, 'filament': 0.0}
