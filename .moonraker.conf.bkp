@@ -72,6 +72,10 @@ install_script = install.sh
 managed_services = 
 	moonraker-obico
 
+[spoolman]
+server = http://192.168.1.23:7912
+sync_rate = 5
+
 [update_manager Klippain-ShakeTune]
 type = git_repo
 origin = https://github.com/Frix-x/klippain-shaketune.git
